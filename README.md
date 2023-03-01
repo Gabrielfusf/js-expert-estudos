@@ -1,7 +1,7 @@
 
 
 ## Preview
-<img width=100% src="./assets/demo-template-lg.gif">
+<img width=100% src="./assets/jsexpertasset.png">
 
 ## Pre-reqs
 
