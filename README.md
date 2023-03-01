@@ -1,11 +1,10 @@
 
 
-## Preview
-<img width=100% src="./assets/jsexpertasset.png">
+
 
 ## Pre-reqs
 
-- Este projeto foi criado usando Node.js v19.6
+- Este projeto foi criado usando Node.js v19.6 e com base no curso js-expert do Erick 
 
 ## Running
 
